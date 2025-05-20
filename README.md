@@ -1,37 +1,37 @@
 ﻿# personal_portfolio
 💼 Personal Portfolio Website
-A responsive portfolio built with HTML, CSS, and JavaScript to showcase my profile, projects, and resume.
+A responsive portfolio built with HTML, CSS, and JavaScript to showcase my profile, projects, and resume.<br>
 
-**🚀 Features**
-📱 Responsive design (desktop, tablet, mobile)
+**🚀 Features**<br>
+📱 Responsive design (desktop, tablet, mobile)<br>
 
-🧭 Smooth scrolling & active nav highlighting
+🧭 Smooth scrolling & active nav highlighting<br>
 
-📩 Contact form with JavaScript validation
+📩 Contact form with JavaScript validation<br>
 
-📄 Downloadable resume
+📄 Downloadable resume<br>
 
-✨ Interactive UI (hover effects, animations)
-**🔧 Tech Stack**
-HTML5 – structure
+✨ Interactive UI (hover effects, animations)<br>
+**🔧 Tech Stack**<br>
+HTML5 – structure<br>
 
-CSS3 – styling & layout
+CSS3 – styling & layout<br>
 
-JavaScript – interactivity & validation
+JavaScript – interactivity & validation<br>
 
-**🧭 Navigation**
-Home: Intro with profile pic and links
+**🧭 Navigation**<br>
+Home: Intro with profile pic and links<br>
 
-About: Background, education, experience
+About: Background, education, experience<br>
 
-Projects: Gallery of past work
+Projects: Gallery of past work<br>
 
-Contact: Form with validation
+Contact: Form with validation<br>
 
-Resume: PDF download link
+Resume: PDF download link<br>
 
-**🛠 Setup**
-To view locally:
-git clone https://github.com/your-username/personal-portfolio.git
-cd personal-portfolio
+**🛠 Setup**<br>
+To view locally:<br>
+git clone https://github.com/your-username/personal-portfolio.git<br>
+cd personal-portfolio<br>
 open index.html
