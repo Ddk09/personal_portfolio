@@ -32,6 +32,6 @@ Resume: PDF download link<br>
 
 **🛠 Setup**<br>
 To view locally:<br>
-git clone https://github.com/your-username/personal-portfolio.git<br>
+git clone https://github.com/Ddk09/personal-portfolio.git<br>
 cd personal-portfolio<br>
 open index.html
